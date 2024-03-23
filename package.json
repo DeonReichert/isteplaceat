@@ -1,0 +1,37 @@
+{
+  "name": "isteplaceat",
+  "version": "1.10.1",
+  "description": "Yet another Node.js helper to require all files in directory",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeonReichert/isteplaceat.git"
+  },
+  "keywords": [
+    "javascript",
+    "temporibus",
+    "js",
+    "in",
+    "node.js",
+    "eos",
+    "pariatur",
+    "folder",
+    "vel",
+    "index",
+    "recursive"
+  ],
+  "author": "TryciaMayer",
+  "license": "MIT",
+  "dependencies": {
+    "sedsit": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.3.4",
+    "mockery": "^1.4.0",
+    "npm-check-updates": "^2.5.6",
+    "nsp": "^2.2.0"
+  }
+}
